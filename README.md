@@ -23,7 +23,7 @@ O programa roda no terminal, como uma partida de xadrez em que dois jogadores al
 
 - Java
 
-## exemplo do que aparece na tela:
+## Exemplo do que aparece na tela:
 <div align="center">
     <img src="https://github.com/cso-jr/chess-system-java/blob/main/chess-pic1.PNG" alt="Tela inicial">
   <p>
@@ -35,6 +35,12 @@ O programa roda no terminal, como uma partida de xadrez em que dois jogadores al
   <p> Opções de jogada com a rainha "Q"</p>
   </p>
 </div>
+
+## Diagrama:
+<div align="center">
+<img align="center" height="600" src="https://github.com/cso-jr/chess-system-java/blob/main/chess-system-design.png" alt="Diagrama lógico">  
+</div>
+
 
 
 
