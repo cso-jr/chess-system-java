@@ -25,7 +25,15 @@ O programa roda no terminal, como uma partida de xadrez em que dois jogadores al
 
 ## exemplo do que aparece na tela:
 <div align="center">
-    <img src="https://github.com/cso-jr/chess-system-java/blob/main/chess-p1.PNG" alt="Tela inicial">
+    <img src="https://github.com/cso-jr/chess-system-java/blob/main/chess-pic1.PNG" alt="Tela inicial">
+  <p>
+    Tela inicial
+  </p>
+</div>
+<div align="center">
+    <img align="center" heiht="top" src="https://github.com/cso-jr/chess-system-java/blob/main/chess-p2.PNG" alt="Tela inicial">
+  <p> Opções de jogada com a rainha "Q"</p>
+  </p>
 </div>
 
 
