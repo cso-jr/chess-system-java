@@ -24,7 +24,9 @@ O programa roda no terminal, como uma partida de xadrez em que dois jogadores al
 - Java
 
 ## exemplo do que aparece na tela:
-
+<div align="center">
+    <img src="https://github.com/cso-jr/chess-system-java/blob/main/chess-p1.PNG" alt="Tela inicial">
+</div>
 
 
 
